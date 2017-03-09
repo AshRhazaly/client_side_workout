@@ -1,0 +1,42 @@
+.home-link {
+  margin-top: 13px;
+}
+.main-container {
+  height: 400px;
+  box-shadow:0 0 20px rgba(0,0,0,0.8);
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.start-workout {
+  display: block;
+  margin:auto;
+  margin-top: 150px;
+}
+
+.workout-list {
+  display:block;
+  margin: auto;
+  width: 50%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.workout-image {
+  background: #777;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+}
+.reps {
+  float:right;
+}
+
+.workout-header {
+  text-align: center;
+}
